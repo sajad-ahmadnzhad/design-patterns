@@ -1,1 +1,2 @@
-import "./patterns/creational/singleton/singleton"
+import "./solid"
+import "./patterns"

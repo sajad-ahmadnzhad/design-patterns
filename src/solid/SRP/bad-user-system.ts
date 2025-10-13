@@ -44,3 +44,4 @@ class BadUserManagementService {
 const badUserManagementService = new BadUserManagementService()
 
 badUserManagementService.register('ahmadnzhad22', '12334444')
+badUserManagementService.login('ahmadnzhad22', '12334444')

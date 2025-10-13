@@ -1,0 +1,1 @@
+import "./patterns/creational/singleton/singleton"

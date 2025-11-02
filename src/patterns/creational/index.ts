@@ -1,2 +1,1 @@
-export * from './singleton/example'
-export * from './singleton/singleton'
+export * from './singleton'
